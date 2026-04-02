@@ -60,7 +60,7 @@ export default function HomePage() {
       name: "Priya Sharma",
       condition: "Chronic Migraines",
       rating: 5,
-      text: "Dr. Patil&apos;s individualized approach helped me manage my migraines naturally. I&apos;ve had fewer episodes in 3 months than in the previous year!",
+      text: "Dr. Patil's individualized approach helped me manage my migraines naturally. I've had fewer episodes in 3 months than in the previous year!",
       initials: "PS",
     },
     {
@@ -74,7 +74,7 @@ export default function HomePage() {
       name: "Meera Desai",
       condition: "Family Wellness",
       rating: 5,
-      text: "We bring our whole family here. Dr. Patil has helped with everything from children&apos;s recurring infections to adult stress management.",
+      text: "We bring our whole family here. Dr. Patil has helped with everything from children's recurring infections to adult stress management.",
       initials: "MD",
     },
   ];
